@@ -25,3 +25,5 @@ def merge_the_tools(string, k):
         s = [x for x in i if not(x in seen or seen_add(x))]
         print(''.join(s))
 
+#  output
+#  {('b', 'c', 'a'), ('a', 'a', 'b'), ('c', 'a', 'b')}
