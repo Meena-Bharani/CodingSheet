@@ -1,0 +1,8 @@
+This is the text file which holds users and their email ids.
+The project manager's email id is pm@email.com.
+The developer1's email id is dev1@email.com.
+The developer2's email id is dev2@email.com.
+The developer3's email id is dev3@email.com.
+The developer4's email id is dev4@email.com.
+The tester1's email id is tester1@email.com.
+The tester2's email id is tester2@email.com.

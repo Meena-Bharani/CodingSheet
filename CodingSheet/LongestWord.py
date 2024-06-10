@@ -1,5 +1,5 @@
 ''' Write a function that takes a sentance, and returns the longest word in the sentance
-or if it has no even-length words, return '00'.
+or if it has no EVEN-length words, return '00'.
 '''
 
 def longest_even(text):

@@ -8,7 +8,7 @@ class Variant(BaseModel):  #pydantic
     price: str
     grams: int
 
-    @field_validator('sku')
+    @field_validator('sku') #sku is a column from the API
     def check_sku_length(cls, value):
         required_length = 10
         if len(value) != required_length:
